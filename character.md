@@ -37,13 +37,13 @@ Bally belonged to whoever held Hammarby before the Harrying. Lewis inherited it 
 
 ---
 
-## Tracks (Starting)
+## Tracks (After Session 1)
 | Track | Value |
 |-------|-------|
 | Health | 5 |
 | Spirit | 5 |
 | Supply | 5 |
-| Momentum | 2 |
+| Momentum | 6 |
 
 ---
 
@@ -54,23 +54,38 @@ Lewis will build Hammarby into an estate worthy of a lord. He will acquire armou
 
 The repentance piece has no shape yet. He has not admitted to himself that it is part of the vow. It is there nonetheless.
 
+**Progress: 0/40**
+
 ### Inciting Vow — *I will find what killed Aldric and make the north field safe before harvest* (Formidable)
 Aldric — a soldier under Lewis's command, known personally — was found dead at the edge of the north field with no visible wound. The field lies untouched; the peasants will not go near it. If it remains untilled, the estate cannot produce enough to fund rebuilding, let alone eventual taxes or armour.
 
 The vow is practical as much as personal. Lewis needs that field. He also needs to know what killed a man he trusted.
+
+**Progress: 0/10**
+**Lead established:** Edith directed Lewis to a standing stone at the north end of Langsjön, where the forest meets the water. Wait at dusk, alone or with one trusted man, no torch. The people there — almost certainly druids — may know what walks the north field.
+
+---
+
+## Inventory
+
+- One sword (well-used, well-kept)
+- A woven charm of tied rushes, a crow feather, and something dark and dried — found at the north field's edge near Aldric's body. Placed as a warning, not a weapon. Origin unknown; someone in the village knew Aldric was going to the field.
 
 ---
 
 ## Relationships
 
 ### Aldric (deceased)
-One of Lewis's soldiers. Found dead at the north field's edge, no wound. His name is a native name — whether that means anything remains unclear. Lewis knew him personally.
+One of Lewis's soldiers. Found dead at the north field's edge on the twenty-second morning after Lewis's arrival. No wound, no struggle — his heart stopped. Something from beneath the world looked at him directly. He walked to the field alone and did not walk back. Lewis buried him himself. His name is a native name — whether that means anything remains unclear.
+
+### Edith
+Oldest woman in the village of Hammarby, present since before the Harrying. The other peasants defer to her without making a show of it. Sharp-eyed, composed, not easily impressed or frightened. She told Lewis what she knows of the north field and the fifth season, and directed him to the standing stone. She is not an ally — not yet — but she shared information because a dead field and a dead soldier serves neither of them. She knows more than she said.
+
+### Theodor (the Older Clerc)
+Administrator sent ahead to prepare Hammarby for Lewis's arrival. Competent, careful, and possessed of quiet opinions he does not voice unprompted. Noticed the charm in Lewis's hand and advised him not to show it around. Directed Lewis toward Edith. Has not been told where Lewis is going at dusk.
 
 ### Bally
 The horse. See Assets.
-
-### The Older Clerc
-Administrator. Represents official religion and bureaucracy. Has quiet opinions about Lewis's lack of a surname. Relationship not yet developed.
 
 ### The Younger Scribe
 The other clerc. Role and character not yet established.
@@ -97,7 +112,9 @@ He arrived at Hammarby with a horse he can barely ride, four soldiers (now three
 
 ## Open Questions
 - What is Lewis's surname, when he earns one?
-- What do the peasants know about the north field and Aldric's death?
+- Who in the village placed the charm to warn Aldric — and why were they afraid to speak to him directly?
 - What is Bally's history — did Lewis's predecessor die in the Harrying, or flee?
-- Which of his remaining soldiers are worth naming?
+- Which of his two remaining soldiers are worth naming?
+- Does Lewis tell Theodor where he is going before dusk?
+- Does he go to the standing stone alone or take one man?
 - What does Lewis's version of restitution actually look like, when he gets there?

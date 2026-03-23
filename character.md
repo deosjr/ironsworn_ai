@@ -37,13 +37,13 @@ Bally belonged to whoever held Hammarby before the Harrying. Lewis inherited it 
 
 ---
 
-## Tracks (After Session 1)
+## Tracks (After Session 2)
 | Track | Value |
 |-------|-------|
 | Health | 5 |
 | Spirit | 5 |
 | Supply | 5 |
-| Momentum | 6 |
+| Momentum | 10 |
 
 ---
 
@@ -61,15 +61,15 @@ Aldric — a soldier under Lewis's command, known personally — was found dead 
 
 The vow is practical as much as personal. Lewis needs that field. He also needs to know what killed a man he trusted.
 
-**Progress: 0/10**
-**Lead established:** Edith directed Lewis to a standing stone at the north end of Langsjön, where the forest meets the water. Wait at dusk, alone or with one trusted man, no torch. The people there — almost certainly druids — may know what walks the north field.
+**Progress: 1/10**
+**Current lead:** Conlaoch has agreed to bring a druid to neutral ground — a woman who knows a rite to seal thin places. She has done it before. Con will make contact at the estate when she is ready. Lewis is waiting on his schedule, not his own.
 
 ---
 
 ## Inventory
 
-- One sword (well-used, well-kept)
-- A woven charm of tied rushes, a crow feather, and something dark and dried — found at the north field's edge near Aldric's body. Placed as a warning, not a weapon. Origin unknown; someone in the village knew Aldric was going to the field.
+- One sword (well-used, well-kept; recently recovered from Langsjön, needs proper cleaning and attention)
+- A woven charm of tied rushes, a crow feather, and something dark and dried — found at the north field's edge near Aldric's body. Placed by Conlaoch as a warning, not a weapon.
 
 ---
 
@@ -79,10 +79,22 @@ The vow is practical as much as personal. Lewis needs that field. He also needs 
 One of Lewis's soldiers. Found dead at the north field's edge on the twenty-second morning after Lewis's arrival. No wound, no struggle — his heart stopped. Something from beneath the world looked at him directly. He walked to the field alone and did not walk back. Lewis buried him himself. His name is a native name — whether that means anything remains unclear.
 
 ### Edith
-Oldest woman in the village of Hammarby, present since before the Harrying. The other peasants defer to her without making a show of it. Sharp-eyed, composed, not easily impressed or frightened. She told Lewis what she knows of the north field and the fifth season, and directed him to the standing stone. She is not an ally — not yet — but she shared information because a dead field and a dead soldier serves neither of them. She knows more than she said.
+Oldest woman in the village of Hammarby, present since before the Harrying. The other peasants defer to her without making a show of it. Sharp-eyed, composed, not easily impressed or frightened. She told Lewis what she knows of the north field and the fifth season, and directed him to the standing stone. She is not an ally — not yet — but she shared information because a dead field and a dead soldier serves neither of them. She knows more than she said. Someone in the village has been leaving food for Conlaoch at the treeline — Edith may know who.
 
 ### Theodor (the Older Clerc)
-Administrator sent ahead to prepare Hammarby for Lewis's arrival. Competent, careful, and possessed of quiet opinions he does not voice unprompted. Noticed the charm in Lewis's hand and advised him not to show it around. Directed Lewis toward Edith. Has not been told where Lewis is going at dusk.
+Administrator sent ahead to prepare Hammarby for Lewis's arrival. Competent, careful, and possessed of quiet opinions he does not voice unprompted. Now knows everything Lewis knows — told in full after the session at the standing stone. His counsel: handle the druid quietly, keep no record, deal with the larger question of the king another time. Raised the queen's survey without pressing. Can write a report about soil conditions boring enough to deflect scrutiny. Lewis trusts him as much as he trusts anyone.
+
+### Conlaoch
+A native survivor of the Harrying. Lost his wife, children, and farm. Has been living in the forest near the estate for months, sustained by food left at the treeline by someone in the village. He placed the warning charm at the north field's edge. He has been watching events at the estate from the treeline.
+
+Lewis mangled his name on first hearing — landed somewhere shorter, blunter. Conlaoch let it go without correcting him. What that means is unclear.
+
+An arrangement exists: Con will bring a druid to neutral ground to seal the north field. In exchange, Lewis tolerates the food the village leaves for him at the treeline, openly and knowingly. Neither man trusts the other. Both need something the other can provide.
+
+Con omitted the network of displaced natives watching the estate. That omission sits uneasily.
+
+### The Prisoner
+A displaced native turned bandit, currently bound outside the hall. Ambushed Lewis on the path back from the standing stone. Knew Lewis by name and by sight before a word was exchanged — had been watching the estate. Said *we are everywhere* before being knocked unconscious. Suggests an organised network beyond what Conlaoch indicated. A decision about what to do with him waits for morning.
 
 ### Bally
 The horse. See Assets.
@@ -112,9 +124,9 @@ He arrived at Hammarby with a horse he can barely ride, four soldiers (now three
 
 ## Open Questions
 - What is Lewis's surname, when he earns one?
-- Who in the village placed the charm to warn Aldric — and why were they afraid to speak to him directly?
+- Who in the village has been leaving food for Conlaoch — and what else do they know?
 - What is Bally's history — did Lewis's predecessor die in the Harrying, or flee?
-- Which of his two remaining soldiers are worth naming?
-- Does Lewis tell Theodor where he is going before dusk?
-- Does he go to the standing stone alone or take one man?
+- Which of his three soldiers are worth naming?
 - What does Lewis's version of restitution actually look like, when he gets there?
+- What to do with the prisoner in the morning?
+- How far does Lewis's skepticism about the fifth season hold — and what would it take to break it?

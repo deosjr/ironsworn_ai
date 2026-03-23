@@ -19,10 +19,14 @@ As a result, the seasonal cycle is breaking down. A **Fifth Season** — of endl
 
 The druids still perform the maiden ritual, knowing it is insufficient without the full sacred kingship cycle. They are messengers and interpreters of the gods, not power brokers — they have no hidden agenda beyond fulfilling their religious duty.
 
-### What Is Known (as of Session 1)
-Edith, a village elder at Hammarby, described the fifth season in these terms: the mist lingers past when it should lift; some mornings feel like the world forgot to wake up properly. The boundary between this world and what lies beneath is not as solid as it was. Things leak through — not things you can fight, not things you can bury and be done with.
+### What Is Known (as of Session 2)
+The fifth season's cause has now been confirmed from two independent sources — Edith in session 1, and Conlaoch in session 2. The king's refusal of the sacred kingship ritual is directly responsible. The boundary is thinning everywhere, not just at Hammarby; the north field is one thin place among others, and there will be more.
 
-The north field at Hammarby is a **thin place** — somewhere the boundary has worn through. It has been wrong for two seasons, made worse by the Harrying. Aldric, one of Lewis's soldiers, died there when something from beneath looked at him directly. His heart stopped. This is what happens at thin places.
+Thin places can be sealed individually through a localised ritual — something given willingly to what lies beneath, performed by someone who knows the old ways. This does not address the fifth season itself, only its local symptoms.
+
+Edith described the fifth season: the mist lingers past when it should lift; some mornings feel like the world forgot to wake up properly. The boundary between this world and what lies beneath is not as solid as it was. Things leak through — not things you can fight, not things you can bury and be done with.
+
+The north field at Hammarby is a **thin place** — the boundary has worn through there. It has been wrong for two seasons, made worse by the Harrying. Aldric died there when something from beneath looked at him directly. His heart stopped. This is what happens at thin places.
 
 ---
 
@@ -37,7 +41,14 @@ The most politically dangerous figure. Does not share her husband's complacency.
 ### The Druids
 Keepers of the old ritual. They choose the maiden each year, perform the ceremonies, and watch the fifth season worsen. They are not villains — they are functionaries of something larger than themselves, increasingly desperate. They are deeply resentful of the conquest and the Harrying. They would collaborate with the Conquerors to avert the fifth season if trust were possible, but it is not — yet.
 
-They operate in the forest north and west of Hammarby. Edith directed Lewis to make contact at the standing stone at the north end of Langsjön — suggesting the druids are already aware of events at the estate, and may have been watching.
+They have been actively trying to reach someone on the Conqueror side who would listen — Conlaoch confirmed this in session 2. Lewis may be the first such person. One druid in particular knows a rite to seal thin places and has done so before; Conlaoch has agreed to bring her to neutral ground to treat with Lewis.
+
+They operate in the forest north and west of Hammarby.
+
+### The Displaced Natives
+Distinct from the druids and the army north of the border. An informal network of people dispossessed by the Harrying — those who lost land, family, and livelihood and did not flee north. They survive in the margins: forests, abandoned steadings, the edges of Conqueror estates. They watch. They share information. How organised they are is unclear, but the bandit who ambushed Lewis on the Langsjön path knew his name and his face before a word was exchanged, and said *we are everywhere* with conviction rather than bluster.
+
+Conlaoch is connected to this network, though he did not volunteer the information. How closely he is involved, and whether the druids direct or merely tolerate them, is unknown.
 
 ### The Displaced Native Army
 North of the border. Resentful, eager to reconquer their homeland, but currently powerless to act. A pressure that could become kinetic.
@@ -64,22 +75,25 @@ A ruined estate on the northern border, granted to Lewis of Mervik after the Har
 
 The fifth season is already affecting it. The north field is a thin place — the boundary between worlds has worn through there. Two seasons of avoidance by the peasants have kept the field untilled. One of Lewis's soldiers is now dead because of it. The hall is still a ruin but has a working roof over part of it after three weeks of effort.
 
+A druid is coming — on her schedule — to seal the north field. The arrangement was brokered through Conlaoch. If it works, the field can be tilled before harvest.
+
 ### Geography
 Modeled on the landscape around Linnaeus' Hammarby, southeast of Uppsala: low rolling terrain, mixed forest, open fields between tree lines, lakes. Quiet and melancholy.
 
-**Langsjön** — a long narrow lake at one edge of the estate. The estate sits at one end; the far end disappears into forest and mist. Water is liminal in native myth. The druids have a relationship with this lake — their contact point with Lewis is a tall grey standing stone where the forest meets the eastern bank at the lake's northern end.
+**Langsjön** — a long narrow lake at one edge of the estate. The estate sits at one end; the far end disappears into forest and mist. Water is liminal in native myth. The druids have a relationship with this lake — their contact point with Lewis was a tall grey standing stone where the forest meets the eastern bank at the lake's northern end.
 
 **The North Field** — a thin place. The boundary between the living world and the underworld is worn through here. The peasants have not tilled it for two seasons. Aldric died at its edge. The dry patch of grass beneath his body suggests the wrongness is localised and specific.
 
 Forest presses in from the north and west, thickening toward the border. The druids operate within it.
 
-### Estate Inventory (Session 1)
+### Estate Inventory (After Session 2)
 - Hall: stone foundation intact, partial roof now in place
 - Village of 31 able-bodied native peasants
-- Three remaining soldiers (unnamed)
+- Three soldiers (unnamed)
 - Two clercs: Theodor (older administrator), and a younger scribe not yet developed
 - Supplies for the remainder of the season
 - One horse (Bally)
+- One prisoner: displaced native, bound outside the hall
 
 ### Feudal Obligations
 Lewis owes feudal levy to a nearby baron who is himself managing ruined estates and not yet collecting taxes. The levy for an estate this size is effectively just Lewis himself — expected to arrive with horse and armour. He has the horse. The armour is a future problem.
@@ -89,10 +103,20 @@ Lewis owes feudal levy to a nearby baron who is himself managing ruined estates 
 ## Named NPCs
 
 ### Edith (Hammarby Village)
-Oldest woman in the village. Present since before the Harrying. The other peasants defer to her without making a show of it. Sharp, composed, not easily frightened. In session 1 she explained the fifth season and the north field to Lewis, and directed him to the standing stone. She shared information because a dead field and a dead soldier serves no one. She knows more than she said. Potential ongoing ally — not yet trust, but common ground.
+Oldest woman in the village. Present since before the Harrying. The other peasants defer to her without making a show of it. Sharp, composed, not easily frightened. In session 1 she explained the fifth season and the north field to Lewis, and directed him to the standing stone. She shared information because a dead field and a dead soldier serves no one. She knows more than she said. Someone in the village has been leaving food for Conlaoch at the treeline — Edith likely knows who.
 
 ### Theodor (Hammarby, Older Clerc)
-Lewis's administrator. Competent, careful, quietly opinionated. Noticed the charm Lewis found and advised discretion. Identified Edith as the right person to approach. Has not been told about the standing stone.
+Lewis's administrator. Competent, careful, quietly opinionated. Now knows everything Lewis knows — told in full after the session at the standing stone. His counsel: handle the druid quietly, no record, one thing at a time. Raised the queen's survey without pressing. Can write official reports in a way that deflects scrutiny. Effectively Lewis's most trusted confidant by default.
+
+### Conlaoch (the Forest)
+A native survivor of the Harrying who lost his wife, children, and farm. Has been living in the forest near the estate, sustained by food left at the treeline by a village contact. He placed the warning charm at the north field and has been watching the estate for months.
+
+Cold, precise, not interested in Lewis's goodwill. An arrangement exists: he will bring a druid to treat with Lewis in exchange for the village food continuing openly. He omitted the existence of the network of displaced natives watching the estate. Lewis has not yet pressed him on this.
+
+His name was mangled on first hearing. He let it go.
+
+### The Unnamed Prisoner (Hammarby, outside the hall)
+A displaced native who ambushed Lewis on the Langsjön path. Poorly equipped, winter-thin, desperate. Knew Lewis by name and sight before speaking. Said *we are everywhere* before being knocked unconscious. Connected to the network of displaced natives monitoring the estate. His fate is undecided — morning's problem.
 
 ---
 
@@ -110,7 +134,8 @@ Lewis's immediate feudal superior. Managing his own reconstruction. Not yet dema
 
 The core tragedy: averting the fifth season requires collaboration between Conquerors and natives. The druids have the knowledge; the king has the power to restore the ritual. But the conquest and Harrying have made trust nearly impossible. Lewis, positioned between both worlds as a lowborn soldier elevated into Norman nobility, may be the only person capable of eventually brokering this — if he survives long enough to understand what is actually needed.
 
-The first tentative step toward that brokerage happened in session 1: Lewis sat on a small stool in Edith's home and listened instead of threatened. It is not much. It is a start.
+Session 1: Lewis sat on a small stool in Edith's home and listened instead of threatened.
+Session 2: Lewis held his temper at the standing stone and kept the conversation alive when everything in him wanted to end it with a sword. A druid is coming. The door is open, barely.
 
 ---
 
@@ -119,4 +144,7 @@ The first tentative step toward that brokerage happened in session 1: Lewis sat 
 - What the druids know about the fifth season's timeline
 - Whether the queen's agents have already reached this region
 - The maiden's situation in more detail
-- Who in Hammarby village placed the warning charm — and what do they know?
+- Who in Hammarby village has been leaving food for Conlaoch — and what else do they know?
+- How organised is the network of displaced natives, and what are they actually doing beyond watching?
+- What does the druid ask of Lewis in exchange for sealing the field?
+- How closely is Conlaoch connected to the druid faction versus the displaced native network?

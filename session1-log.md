@@ -85,11 +85,11 @@ The vow settled. Lewis straightened, and the fog seemed no worse than it was.
 
 ## The Burial
 
-Lewis buried Aldric himself, alongside his two soldiers and Theodor — who did not complain about the digging despite his age and his clerc's hands. They found a spot at the field's edge, high enough that spring water wouldn't reach it.
+Lewis buried Aldric himself, alongside his three soldiers and Theodor — who did not complain about the digging despite his age and his clerc's hands. They found a spot at the field's edge, high enough that spring water wouldn't reach it.
 
 Nobody said much. Lewis said a few words over the grave when it was done. Nothing formal. Just Aldric's name, where he came from, that he was a good soldier and didn't deserve this end. The kind of words a foot soldier says over another foot soldier.
 
-The two soldiers looked steadier afterward. Theodor caught Lewis's eye with a slight tilt of his head toward the village.
+The soldiers looked steadier afterward. Theodor caught Lewis's eye with a slight tilt of his head toward the village.
 
 ---
 

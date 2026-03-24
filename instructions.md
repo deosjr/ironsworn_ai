@@ -9,6 +9,8 @@ I will report my rolls as X and Y vs Z. Example: I roll a move and say "10 and 6
 
 Weak hits do _not_ provide initiative, only strong hits do. Initiative needs to be tracked accurately and carefully.
 
+The outcome of a succesful journey roll is _never_ to arrive at the destination, only at a waypoint.
+
 Q: How do you want to play?
 A: I'll play solo, with you helping me brainstorm ideas like an oracle, reminding me of game mechanics, and possibly roleplay other characters if I ask you to. Sometimes I might retcon some of what you bring in, but generally we riff on each others ideas
 

@@ -23,9 +23,13 @@ Lewis has no family name. Knights have surnames; he does not. Other lords notice
 ## Assets
 
 ### Swordmaster
+*When you Strike or Clash and burn momentum to improve your result, inflict +2 harm. If the fight continues, add +1 on your next move.*
+
 Lewis was known for his swordsmanship in the ranks before his elevation — unusual for a foot soldier. It is one of the things that got him noticed. He did not receive formal training; he simply took to it in a way that made formally trained men uncomfortable.
 
 ### Veteran
+*When you burn momentum to improve your result in combat, envision how your hard-won fighting experience gives you the upper hand. Then, take +1 momentum after you reset, and add +1 when you make your next move.*
+
 Has seen campaigns. Knows what broken men look like, what a line about to break sounds like, what it costs to keep moving when everything says stop.
 
 ### Horse (Companion) — *Bally*
@@ -37,13 +41,15 @@ Bally belonged to whoever held Hammarby before the Harrying. Lewis inherited it 
 
 ---
 
-## Tracks (After Session 3)
+## Tracks (After Session 4)
 | Track | Value |
 |-------|-------|
-| Health | 5 |
-| Spirit | 3 |
+| Health | 4 |
+| Spirit | 2 |
 | Supply | 3 |
-| Momentum | 9 |
+| Momentum | 6 |
+
+**Experience: 1**
 
 ---
 
@@ -56,19 +62,27 @@ The repentance piece has begun to take shape. At the spring, Lewis stopped filin
 
 **Progress: 0/40**
 
-### Inciting Vow — *I will find what killed Aldric and make the north field safe before harvest* (Formidable)
-Aldric — a soldier under Lewis's command, known personally — was found dead at the edge of the north field with no visible wound. The field lies untouched; the peasants will not go near it. If it remains untilled, the estate cannot produce enough to fund rebuilding, let alone eventual taxes or armour.
+---
 
-The vow is practical as much as personal. Lewis needs that field. He also needs to know what killed a man he trusted.
+### Dangerous Vow — *Deal with the thing that killed Aldric*
+The presence that killed Aldric is still loose. Sealed out of the north field but not gone — it will find another thin place. The field being sealed is progress, but not resolution. Lewis still owes Aldric a proper answer.
 
-**Progress: 1/10**  
-**Current position:** Lewis is alone in the tomb, standing at the entrance to the chamber. An ancient rusted sword rests on a stone shelf at the centre. He needs to take it out and bring it to Saoirse, who will use it to seal the field.
+**Progress: 4/10** *(2 marks from session 4)*
+
+---
+
+### Formidable Vow — *Find and seal the thin places* (New — sworn session 4)
+The fifth season is thinning the boundary between worlds everywhere, not just at Hammarby. Saoirse will help Lewis locate thin places before they fail. She will make contact when she knows where the next one is. Lewis is waiting on her schedule.
+
+The larger problem — the king, the ritual — has been deferred. Lewis knows it is there. He is not ready.
+
+**Progress: 0/10**
 
 ---
 
 ## Inventory
 
-- One sword (well-used, well-kept; recovered from Langsjön in session 2, needs proper cleaning and attention)
+- One sword (well-used, well-kept; needs proper cleaning after Langsjön and the tomb)
 - A woven charm of tied rushes, a crow feather, and something dark and dried — found at the north field's edge near Aldric's body. Placed by Conlaoch as a warning, not a weapon.
 
 ---
@@ -79,41 +93,37 @@ The vow is practical as much as personal. Lewis needs that field. He also needs 
 One of Lewis's soldiers. Found dead at the north field's edge on the twenty-second morning after Lewis's arrival. No wound, no struggle — his heart stopped. Something from beneath the world looked at him directly. He walked to the field alone and did not walk back. Lewis buried him himself. His name is a native name — whether that means anything remains unclear.
 
 ### Edith
-Oldest woman in the village of Hammarby, present since before the Harrying. The other peasants defer to her without making a show of it. Sharp-eyed, composed, not easily impressed or frightened. She told Lewis what she knows of the north field and the fifth season, and directed him to the standing stone. In session 3 she confirmed the prisoner's name was Bram, told Lewis to execute him plainly when the time came, and served as the druid's messenger — delivering Saoirse's invitation to Lewis directly. She knew about Oskar and the food supply all along. Her position is defensible either way; Lewis never asked.
+Oldest woman in the village of Hammarby, present since before the Harrying. The other peasants defer to her without making a show of it. Sharp-eyed, composed, not easily impressed or frightened. She told Lewis what she knows of the north field and the fifth season, directed him to the standing stone, identified Oskar as the village contact, and handed Lewis Saoirse's invitation without being asked. She states positions rather than asking for things. Not an ally exactly — a pragmatist who has decided Lewis is worth dealing with, for now.
 
 ### Theodor (the Older Clerc)
-Administrator sent ahead to prepare Hammarby for Lewis's arrival. Competent, careful, and possessed of quiet opinions he does not voice unprompted. Knows everything Lewis knows. His counsel: handle the druid quietly, keep no record, deal with the larger question of the king another time. Can write a report about soil conditions boring enough to deflect scrutiny. Lewis trusts him as much as he trusts anyone.
+Administrator sent ahead to prepare Hammarby for Lewis's arrival. Competent, careful, and possessed of quiet opinions he does not voice unprompted. Knows everything Lewis knows. His counsel: handle things quietly, keep no record, one problem at a time. Can write official reports boring enough to deflect scrutiny. Lewis trusts him as much as he trusts anyone.
 
 ### Conlaoch
-A native survivor of the Harrying. Lost his wife, children, and farm. Has been living in the forest near the estate, sustained by food Oskar left at the treeline through winter. He placed the warning charm at the north field's edge and has been watching the estate for months.
+A native survivor of the Harrying. Lost his wife, children, and farm. Lives in the forest near the estate, sustained by food left at the treeline by Oskar. He placed the warning charm at the north field's edge and has been watching the estate for months.
 
 Lewis mangled his name on first hearing. Conlaoch let it go.
 
-An arrangement exists: Conlaoch brought Saoirse to treat with Lewis; in exchange Lewis tolerates the food supply openly. He accompanied Lewis to the spring and waited outside. He also sealed the tomb before Lewis arrived — or had it sealed — using the same warning-charm tradition as the north field. Whether this was to protect Lewis, to protect the tomb, or to test him is unclear. Lewis has not yet raised it with him.
-
-Conlaoch omitted the existence of Bram's faction — people who want Lewis dead and think Conlaoch is a fool for negotiating. That omission is harder to excuse than merely not mentioning the network.
+The arrangement holds: Lewis tolerates the food openly, Con brokered the druid's involvement. Con sealed the tomb without warning Lewis what was inside — offered a partial admission when confronted. The hostile faction among the displaced natives — Bram's people — has not been directly addressed between them. That omission sits uneasily.
 
 ### Saoirse (the Druid)
-A druid who knows a rite to seal thin places and has done so before. Older than Lewis expected. Met him in the clearing northeast of the estate, with Conlaoch at her shoulder. The exchange she offered: Lewis retrieves an object from a tomb deeper in the forest; she seals the north field. She required him to pass through a sacred spring first — the spring would not let him lie to himself.
+Sealed the north field using the Tether ritual and the conduit retrieved from the tomb. Has done this before. Will not travel with Lewis but will make contact when she knows where the next thin place is. She thinks hunting symptoms is insufficient — the king is the real problem — but is pragmatic enough to work with what she has. Lewis is her best lead on the Conqueror side, and she knows it.
 
-The exchange is transactional so far. What she makes of Lewis personally is unclear. She told him to execute Bram somewhere else — not on her ground.
-
-### Bram (the prisoner — at the estate, in Rolf's custody)
-A displaced native turned bandit. Part of the faction that believes Conlaoch is wasting his time negotiating with conquerors. Attacked Lewis on the Langsjön path. Knew Lewis by name and face before a word was exchanged. Said *we are everywhere* and then said nothing more for two days of questioning.
-
-Lewis has decided to execute him plainly, as Edith advised. He is waiting until he returns from the tomb.
-
-### Oskar (Hammarby Village)
-An older farmer with a strip in the fallow north field. Lost a son in the hard winter after the Harrying. Has been leaving food at the treeline for Conlaoch since autumn — not out of ideology, but because Conlaoch was the only one saying anything about fixing the field. Lewis confronted him directly and let him continue openly. Not an enemy. Potentially useful.
-
-### Rolf
-Oldest of Lewis's three remaining soldiers, been with Lewis longest. Knew Aldric. Accompanied Lewis to the meeting with Saoirse, then returned to the estate with Bally and Bram as instructed. Didn't like leaving Lewis alone in the forest. His face said so clearly.
-
-### Edde
-Younger soldier, eager. Wanted to hang Bram at dawn on the first morning. Was told to stand down. Not satisfied, but done.
+Her name, like Circe, is not coincidental in feel if not in origin.
 
 ### Maret
-The quiet soldier. Possibly the most dangerous thinker of the three. Her silence during the argument about Bram suggested she thought Lewis made the right call.
+One of Lewis's three soldiers — the quiet one, possibly the most dangerous thinker of the three. Witnessed the sealing of the north field and the conversation with Saoirse that followed. Now knows more than Rolf or Edde. Her silence is an asset. What she does with what she knows is an open question.
+
+### Rolf
+Oldest of the three remaining soldiers. Has been with Lewis longest. Knew Aldric. Steady. Executed Bram on Lewis's order without comment.
+
+### Edde
+Youngest of the three soldiers. Wanted Bram hanged from the start. Not wrong, just impatient.
+
+### Oskar
+A village peasant with strips in the north field. Lost his son in the hard winter after the Harrying. Has been leaving food at the treeline for Conlaoch since autumn — not out of ideology but because Con told him he knew people who might fix the field. Didn't deny it when Lewis confronted him. Not an enemy. A pragmatist with nothing left to lose and a direct interest in the field producing.
+
+### Bram (deceased)
+A displaced native turned bandit. Ambushed Lewis on the Langsjön path. Knew Lewis by name and sight — had been watching the estate. Said *we are everywhere* before being knocked unconscious. Executed after the north field was sealed. Represented the faction among the displaced natives that wanted blood for blood rather than negotiation.
 
 ### Bally
 The horse. See Assets.
@@ -133,11 +143,11 @@ Lewis's immediate feudal superior. Managing his own reconstruction. Not yet dema
 
 Lewis grew up in Mervik. He has no family left there — no one he is in contact with, no one waiting for him. He does not dwell on why. He fought in the Harrying as a foot soldier and came out the other side with a knighthood he did not expect and an estate he is not sure he deserves.
 
-He is troubled by what he participated in. He has stopped pretending otherwise, at least to himself. At the spring in the forest he looked at it directly — the pillaging, the killing, the things done around him that he did not stop. He did not pull back. He is carrying it openly now for the first time. What that means in practice has no shape yet.
+He is quietly troubled by what he participated in. He does not admit this. He has filed it under soldiers follow orders, which works until it doesn't. At the spring in the forest he looked at it directly for the first time. He has not decided what to do with that yet.
 
 He is blunt, loyal, not particularly subtle. He leads through presence and consistency rather than charm or calculation. People follow him because he does not ask them to do things he would not do himself, and because he keeps his word. That last part matters to him more than he lets on.
 
-He arrived at Hammarby with a horse he can barely ride, four soldiers (now three), two clercs he doesn't fully trust, thirty-odd peasants who don't trust him, and one season's supplies. He has a sword he knows how to use and a vow he is not entirely sure he can keep. Spirit is low. He is more worn down than he has been.
+He arrived at Hammarby with a horse he can barely ride, four soldiers (now three), two clercs he doesn't fully trust, thirty-odd peasants who don't trust him, and one season's supplies. He has a sword he knows how to use and vows he is not entirely sure he can keep.
 
 ---
 
@@ -145,6 +155,7 @@ He arrived at Hammarby with a horse he can barely ride, four soldiers (now three
 - What is Lewis's surname, when he earns one?
 - What is Bally's history — did Lewis's predecessor die in the Harrying, or flee?
 - What does Lewis's version of restitution actually look like, when he gets there?
-- What happens when Lewis reaches for the sword in the tomb?
-- Does Lewis confront Conlaoch about sealing the tomb — and about Bram's faction?
-- How organised is the network of displaced natives, and what are they actually planning?
+- How far does Lewis's skepticism about the fifth season hold — and what would it take to break it fully?
+- What does Maret do with what she now knows?
+- What does Lewis spend his 1 experience on?
+- When does Saoirse make contact again, and where is the next thin place?
